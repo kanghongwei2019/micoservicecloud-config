@@ -6,9 +6,9 @@
 spring:
     profiles: dev
     application:
-        name: microservicecloud-config-XXX-dev
+        name: micoservicecloud-config-dev
 ---
 spring:
     profiles: test
     application:
-        name: microservicecloud-config-XXX-test
+        name: micoservicecloud-config-test
