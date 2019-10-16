@@ -12,3 +12,8 @@ spring:
     profiles: test
     application:
         name: micoservicecloud-config-test
+---
+spring:
+    profiles: test1
+    application:
+        name: micoservicecloud-config-test1
